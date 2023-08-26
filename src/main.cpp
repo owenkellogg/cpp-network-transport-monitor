@@ -14,7 +14,7 @@ int main()
 
     } else {
 
-        std::cout << "OK" << std::endl;
+        std::cout << "OK Boost" << std::endl;
         return 0;
 
     }
